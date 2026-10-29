@@ -6,3 +6,4 @@ Chapter08/cav/*
 
 #Ignore Chpater 8 TCAV concepts
 Chapter08/concepts/*
+.venv/
